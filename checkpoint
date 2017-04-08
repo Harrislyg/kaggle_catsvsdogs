@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/harrisleow/Desktop/Deep_Learning/sentdex/Conv_net_cats_dogs/dogsvscats-0.001-6conv-basic-video.model"
+all_model_checkpoint_paths: "/Users/harrisleow/Desktop/Deep_Learning/sentdex/Conv_net_cats_dogs/dogsvscats-0.001-6conv-basic-video.model"
